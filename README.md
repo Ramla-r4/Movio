@@ -29,9 +29,9 @@
 ## ▶️Run the Django server:
   python manage.py runserver  
 ## 🔹Frontend Setup (Flutter)
-  Navigate to the Flutter directory:
+  Navigate to the Flutter directory:              
    cd ../frontend  
-  Install dependencies:
+  Install dependencies:        
    flutter pub get                   
   Run the Flutter app:              
    flutter run 
