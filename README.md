@@ -1,4 +1,4 @@
-#🎬 Movie Recommendation System
+# 🎬 Movie Recommendation System
 
 ###  An AI-powered Flutter app that recommends movies based on user-provided descriptions using BERT embeddings and TMDb API..
 
