@@ -19,7 +19,7 @@
 
 ## 🛠 Installation
 1. Clone the repo:
-   git clone https://github.com/Ramla-r4/movie-recommendation.git  
+   git clone https://github.com/Ramla-r4/Movio.git  
    cd movie-recommendation/backend  
 ## 🔥 Set up Firebase:
   python -m venv myvenv  
