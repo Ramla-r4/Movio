@@ -32,7 +32,7 @@
   Navigate to the Flutter directory:
    cd ../frontend  
   Install dependencies:
-   flutter pub get
-  Run the Flutter app:
+   flutter pub get                   
+  Run the Flutter app:              
    flutter run 
 
