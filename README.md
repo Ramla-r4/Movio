@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-###  An AI-powered Flutter app that recommends movies based on user-provided descriptions using BERT embeddings and TMDb API..
+###  An AI-powered web application that recommends movies based on user-provided descriptions using BERT embeddings and TMDb API..
 
 ## 🛠 Tech Stack
 - **Frontend:** Flutter  
